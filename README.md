@@ -1,0 +1,1 @@
+This repository contains a Solidity smart contract with a bug related to ERC-721 token balance checks and its solution. The bug involves a missing check for token existence before returning the balance, which can lead to incorrect results. The solution demonstrates how to fix this issue by incorporating the proper checks according to the ERC-721 standard.
